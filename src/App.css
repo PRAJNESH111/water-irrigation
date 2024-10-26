@@ -1,0 +1,15 @@
+/* Neumorphic Shadow for Card */
+.shadow-neu {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.15), -10px -10px 20px rgba(255, 255, 255, 0.7);
+  }
+  
+  /* Neumorphic Inner Shadow for Inputs */
+  .shadow-inner-neu {
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.1), inset -5px -5px 10px rgba(255, 255, 255, 0.7);
+  }
+  
+  /* Neumorphic Shadow for Button */
+  .shadow-btn-neu {
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.15), -6px -6px 12px rgba(255, 255, 255, 0.7);
+  }
+  
